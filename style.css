@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+}
+
+.background {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.7;
+}
+
+.img-1 {
+  height: 100vh;
+  background-image: url(./002-parallax-website/img/bg.jpg);
+}
+
+.paragh-1 h1 {
+  font-size: 3rem;
+  color: white;
+  background-color: rgb(17, 17, 17);
+  padding: 25px;
+  border-top-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+  outline: rgb(134, 12, 94) solid 6px;
+  outline-offset: 1rem;
+  letter-spacing: 0.4rem;
+  font-size: 2rem;
+}
+
+.First-info {
+  text-align: center;
+  background-color: rgb(236, 241, 241);
+  padding: 40px;
+}
+.First-info h2 {
+  margin-bottom: 25px;
+}
+.First-info p {
+  line-height: 2rem;
+}
+
+.img-2 {
+  height: 90vh;
+  background-image: url(/002-parallax-website/img/bg2.jpg);
+}
+
+.img-2 .clarusway img {
+  width: 300px;
+  height: 5rem;
+}
+
+.Second-info {
+  text-align: center;
+  background-color: rgb(69, 69, 71);
+  padding: 40px;
+  color: white;
+}
+.Second-info h2 {
+  margin-bottom: 20px;
+}
+.Second-info p {
+  line-height: 2rem;
+}
+
+.img-3 {
+  height: 100vh;
+  background-image: url(./002-parallax-website/img/bg3.jpg);
+}
+
+.data h1 {
+  font-size: 3rem;
+  color: white;
+  background-color: rgb(17, 17, 17);
+  padding: 25px;
+  border-top-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+  outline: rgb(134, 12, 94) solid 4px;
+  outline-offset: 0.2rem;
+  letter-spacing: 0.4rem;
+  font-size: 2rem;
+}
+
+.Third-info {
+  text-align: center;
+  background-color: rgb(236, 241, 241);
+  padding: 40px;
+}
+.Third-info h2 {
+  margin-bottom: 25px;
+}
+.Third-info p {
+  line-height: 1.5rem;
+}
+
+.img-4 {
+  height: 80vh;
+  background-image: url(./002-parallax-website/img/bg4.jpg);
+}
+
+.paragh-3 h1 {
+  font-size: 3rem;
+  color: white;
+  background-color: rgb(17, 17, 17);
+  padding: 25px;
+  border-top-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+  outline: rgb(134, 12, 94) solid 4px;
+  outline-offset: 0.2rem;
+  letter-spacing: 0.4rem;
+  font-size: 2rem;
+}
+
+.Clarusway-team {
+  text-align: center;
+  background-color: rgb(69, 69, 71);
+  padding: 40px;
+  color: white;
+}
+.Clarusway-team h2 {
+  margin-bottom: 25px;
+}
+.Clarusway-team p {
+  line-height: 2rem;
+}
+
+.last-part {
+  background-image: url(./002-parallax-website/img/bg.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  opacity: 0.7;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.last-part p {
+  font-size: 3rem;
+  color: white;
+  background-color: rgb(17, 17, 17);
+  padding: 25px;
+  border-top-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+  outline: rgb(134, 12, 94) solid 4px;
+  outline-offset: 0.2rem;
+  letter-spacing: 0.4rem;
+  font-size: 2rem;
+}
